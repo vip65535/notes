@@ -1,13 +1,10 @@
-* 入门
-
-  * [:us:, :uk:快速开始](zh-cn/quickstart.md)
-  * [:cn:多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
-
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+*  java
+  * [基础](java/index.md)
+  * [算法](zh-cn/more-pages.md)
+*  python
+  * [基础](zh-cn/quickstart.md)
+  * [入门](zh-cn/more-pages.md)
+*  网络相关
+  * [基础](zh-cn/quickstart.md)
+  * [入门](zh-cn/more-pages.md)
+* [个人软件](zh-cn/themes.md)
