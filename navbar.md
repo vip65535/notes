@@ -1,5 +1,6 @@
 *  java
   * [锁](java/lock.md)
+  * [map](java/map.md)
   * [算法](zh-cn/more-pages.md)
 *  python
   * [基础](zh-cn/quickstart.md)
